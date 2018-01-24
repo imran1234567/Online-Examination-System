@@ -1,5 +1,9 @@
 @extends('layouts.app')
 
+@section('title')
+Online Examination System -Dashboard
+@endsection
+
 @section('content')
     <h3 class="page-title">@lang('quickadmin.questions.title')</h3>
 

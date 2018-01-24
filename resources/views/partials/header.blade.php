@@ -3,7 +3,8 @@
         <div class="navbar-header">
             <a href="{{ url('/') }}"
                class="navbar-brand">
-                @lang('quickadmin.quickadmin_title')
+                <!-- @lang('quickadmin.quickadmin_title') -->
+                Online Examination System - <span style="color: #457AC4">Dashboard</span>
             </a>
         </div>
         <a href="javascript:;"

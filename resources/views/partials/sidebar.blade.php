@@ -82,15 +82,15 @@
         </ul>
 
         <div class="text-center margin-top-20" style="color: white">
-            LaraQuiz is powered by
+            Online Examination <br>System Developed by
             <br />
-            <a href="https://quickadminpanel.com" target="_blank">QuickAdminPanel.com</a>
+            <a href="https://quickadminpanel.com" target="_blank">Sk Imran</a>
 
             <br /><br />
 
             Feedback/questions?
             <br />
-            <a href="mailto:info@laraveldaily.com" target="_blank">info@laraveldaily.com</a>
+            <a href="mailto:info@laraveldaily.com" target="_blank">sk2read@gmail.com</a>
         </div>
     </div>
 </div>

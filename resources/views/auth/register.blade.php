@@ -1,5 +1,9 @@
 @extends('layouts.auth')
 
+@section('title')
+Online Examination System -Register
+@endsection
+
 @section('content')
 <div class="container">
     <div class="row">

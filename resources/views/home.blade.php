@@ -1,10 +1,14 @@
 @extends('layouts.app')
 
+@section('title')
+Online Examination System -Dashboard
+@endsection
+
 @section('content')
     <div class="row">
         <div class="col-md-10">
             <div class="panel panel-default">
-                <div class="panel-heading">Welcome! Here are some numbers about LaraQuiz.</div>
+                <div class="panel-heading">Welcome! There are some question you need to solve.</div>
 
                 <div class="panel-body">
                     <div class="row">

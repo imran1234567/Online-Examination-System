@@ -1,10 +1,14 @@
 @extends('layouts.auth')
 
+@section('title')
+Online Examination System -Login
+@endsection
+
 @section('content')
     <div class="row">
         <div class="col-md-8 col-md-offset-2">
-            <h1 class="text-center" style="color: white">LaraQuiz</h1>
-            <h3 class="text-center" style="color: white">How well do you know Laravel?</h3>
+            <h1 class="text-center" style="color: white">Online Examination System</h1>
+            <h3 class="text-center" style="color: white">Take Your Exam Easily</h3>
             <br />
             <div class="panel panel-default">
                 <div class="panel-heading">Login</div>
@@ -92,8 +96,8 @@
                     </form>
                 </div>
             </div>
-            <div class="text-center" style="color: white">Created by <a href="http://laraveldaily.com">Laravel Daily Team</a></div>
-            <div class="text-center" style="color: white">Powered by <a href="https://quickadminpanel.com">QuickAdminPanel.com</a></div>
+            <div class="text-center" style="color: white">Created by <a href="http://laraveldaily.com">Sk Imran</a></div>
+            <!-- <div class="text-center" style="color: white">Powered by <a href="https://quickadminpanel.com">Exam System Imran</a></div> -->
         </div>
     </div>
 @endsection
